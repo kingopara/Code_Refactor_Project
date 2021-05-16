@@ -9,7 +9,7 @@ Download and install from [apple store](https://www.apple.com/shop) or [playstor
 ## Usage
 
 ```md
-![various-uses](assets/images/screenshot.png)
+![various-uses](Code_Refactor_Project/assets/images/screenshot.png)
 
 leads to (assets/images/screenshot2.png)
 ```
